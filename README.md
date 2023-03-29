@@ -1,7 +1,7 @@
 ## Hey! I'm Tiago Mota, I'm a Front-End developer - React.js
 
-- 🔭 I'm currently working with Front-End development with React.js and Typescript, among other technologies.
-- 🌱 I'm currently learning Back-End development with Node and Mobile with React Native.
+- 🔭 I currently work as a Front-End developer with React.js, Typescript and Javascript, among other technologies. Development of campaign websites, blogs for influencer posts and event landing pages.
+- 🌱 I have knowledge in Back-End development with Node and Mobile with React Native, but I find myself studying and improving my skills in these two technologies.
 
 <div align="center">
   <a href="https://github.com/TiagoM13">

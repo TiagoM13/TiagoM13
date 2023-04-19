@@ -1,4 +1,4 @@
-## Hey! I'm Tiago Mota, I'm a Front-End developer - React.js
+## Hey! My name is Tiago Mota, I'm a Front-End developer - React.js
 
 - 🔭 I currently work as a Front-End developer with React.js, Typescript and Javascript, among other technologies. Development of campaign websites, blogs for influencer posts and event landing pages.
 - 🌱 I have knowledge in Back-End development with Node and Mobile with React Native, but I find myself studying and improving my skills in these two technologies.
@@ -8,8 +8,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TiagoM13&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TiagoM13&layout=compact&langs_count=7&theme=radical"/>
 </div>
-  
-  </div>
+
 <div style="display: inline_block"><br>
   <img align="center" alt="Tiago-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Tiago-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
@@ -25,11 +24,18 @@
 ##
 
 <div>
-  <a href="https://www.instagram.com/tiagomota_13/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
-  <a href="https://twitter.com/tiago_m13" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
-  <a href = "mailto:thyagomotha2000@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/tiago-mota-4690591a8/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
+  <a href="https://www.instagram.com/tiagomota_13/" target="_blank">
+    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank" />
+  </a> 
+  <a href="https://twitter.com/tiago_m13" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank">
+  </a>
+  <a href = "mailto:thyagomotha2000@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
+  </a>
+  <a href="https://www.linkedin.com/in/tiago-mota-4690591a8/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+  </a>  
   
   ![Snake animation](https://github.com/TiagoM13/TiagoM13/blob/output/github-contribution-grid-snake.svg)
-  
 </div>

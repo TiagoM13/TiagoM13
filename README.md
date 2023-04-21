@@ -31,9 +31,9 @@
   <!-- ![Jest](https://img.shields.io/badge/-Jest-333333?style=flat&logo=jest) -->
   <!-- ![Testing Library](https://img.shields.io/badge/-Testing%20Library-333333?style=flat&logo=testing-library) -->
 
-<!-- **Utilidades** -->
+**Utilities**
 
-  <!-- ![Insomnia](https://img.shields.io/badge/-Insomnia-333333?style=flat&logo=insomnia) -->
+  ![Insomnia](https://img.shields.io/badge/-Insomnia-333333?style=flat&logo=insomnia)
   <!-- ![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman) -->
 
 **DevOps**
@@ -48,43 +48,31 @@
   ![Android Studio](https://img.shields.io/badge/-Android%20Studio-333333?style=flat&logo=android-studio&logoColor=007ACC)
   ![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello&logoColor=007ACC)
   ![Notion](https://img.shields.io/badge/-Notion-333333?style=flat&logo=Notion&logoColor=000)
-  ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=FFF)
-  ![Wordpress](https://img.shields.io/badge/-Wordpress-333333?style=flat&logo=Wordpress&logoColor=009ACC)
+  ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC)
+  <!-- ![Wordpress](https://img.shields.io/badge/-Wordpress-333333?style=flat&logo=Wordpress&logoColor=009ACC) -->
 
 <br/>
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TiagoM13&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TiagoM13&layout=compact&langs_count=7&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TiagoM13&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
 <br/>
 
-<!-- <div align="left">
-  <img align="center" alt="Tiago-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Tiago-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Tiago-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Tiago-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Tiago-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Tiago-SCSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg">
-  <img align="center" alt="Tiago-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-  <img align="center" alt="Tiago-Nextjs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
-  <img align="center" alt="Tiago-Tailwindscss" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
-</div> -->
-
 <h3> :earth_americas: &nbsp;Where to find me: </h3> 
 
 <a href="https://www.instagram.com/tiagomota_13/" alt="Instagram" target="_blank">
-  <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank" />
+  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=LINK-DO-SEU-INSTAGRAM"/>
 </a> 
 <a href="https://twitter.com/tiago_m13" alt="Twitter" target="_blank">
-  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank">
+  <img src="https://img.shields.io/badge/-Twitter-1da1f2?style=flat-square&labelColor=1da1f2&logo=twitter&logoColor=white&link=https://twitter.com/tiago_m13" />
 </a>
 <a href = "mailto:thyagomotha2000@gmail.com" alt="Gmail" target="_blank">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
+  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=mailto:thyagomotha2000@gmail.com" />
 </a>
 <a href="https://www.linkedin.com/in/tiago-mota-4690591a8/" alt="LinkedIn" target="_blank">
-  <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+  <img src="https://img.shields.io/badge/-Linkedin-026eaa?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tiago-mota-4690591a8/" />
 </a> 
 
 ##

@@ -9,7 +9,6 @@
   🌱 I have knowledge in Back-End development with Node and Mobile with React Native, at the moment I'm studying and improving my skills in these two technologies.
 </p>
 
-
 <h3> :rocket: &nbsp;Minhas Skills </h3>
 
 **Aplicações e Dados**
@@ -32,10 +31,9 @@
   <!-- ![Jest](https://img.shields.io/badge/-Jest-333333?style=flat&logo=jest) -->
   <!-- ![Testing Library](https://img.shields.io/badge/-Testing%20Library-333333?style=flat&logo=testing-library) -->
 
+<!-- **Utilidades** -->
 
-**Utilidades**
-
-  ![Insomnia](https://img.shields.io/badge/-Insomnia-333333?style=flat&logo=insomnia)
+  <!-- ![Insomnia](https://img.shields.io/badge/-Insomnia-333333?style=flat&logo=insomnia) -->
   <!-- ![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman) -->
 
 **DevOps**
@@ -53,10 +51,14 @@
   ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=FFF)
   ![Wordpress](https://img.shields.io/badge/-Wordpress-333333?style=flat&logo=Wordpress&logoColor=009ACC)
 
+<br/>
+
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TiagoM13&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TiagoM13&layout=compact&langs_count=7&theme=radical"/>
 </div>
+
+<br/>
 
 <!-- <div align="left">
   <img align="center" alt="Tiago-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -72,23 +74,19 @@
 
 ##
 
-<p align="left">
-  💌 Entre em contato comigo pelos segguintes canais: ⤵️
-</p>
+<h3> :earth_americas: &nbsp;Onde me encontrar: </h3> 
 
-<div>
-  <a href="https://www.instagram.com/tiagomota_13/" alt="Instagram" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank" />
-  </a> 
-  <a href="https://twitter.com/tiago_m13" alt="Twitter" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank">
-  </a>
-  <a href = "mailto:thyagomotha2000@gmail.com" alt="Gmail" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
-  </a>
-  <a href="https://www.linkedin.com/in/tiago-mota-4690591a8/" alt="LinkedIn" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
-  </a>  
+<a href="https://www.instagram.com/tiagomota_13/" alt="Instagram" target="_blank">
+  <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank" />
+</a> 
+<a href="https://twitter.com/tiago_m13" alt="Twitter" target="_blank">
+  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank">
+</a>
+<a href = "mailto:thyagomotha2000@gmail.com" alt="Gmail" target="_blank">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
+</a>
+<a href="https://www.linkedin.com/in/tiago-mota-4690591a8/" alt="LinkedIn" target="_blank">
+  <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+</a>  
   
-  ![Snake animation](https://github.com/TiagoM13/TiagoM13/blob/output/github-contribution-grid-snake.svg)
-</div>
+![Snake animation](https://github.com/TiagoM13/TiagoM13/blob/output/github-contribution-grid-snake.svg)

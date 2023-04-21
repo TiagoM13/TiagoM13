@@ -1,12 +1,12 @@
-## Hey! My name is Tiago Mota, I'm a Front-End developer - React.js
+## **Tiago Mota, Software Developer - React.js**
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode" />
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="300px" max-width="300px" width="300px" align="right" alt="Computador iuriCode" />
 
 <p align="left"> 
-  - 🔭 I currently work as a Front-End developer with React.js, Typescript and Javascript, among other technologies. Development of campaign websites, blogs for influencer posts and event landing pages.
+  🔭 I currently work as a Front-End developer with React.js, Typescript and Javascript, among other technologies. Development of campaign websites, blogs for influencer posts and event landing pages.
 </p>
 <p align="left"> 
-  - 🌱 I have knowledge in Back-End development with Node and Mobile with React Native, but I find myself studying and improving my skills in these two technologies.
+  🌱 I have knowledge in Back-End development with Node and Mobile with React Native, at the moment I'm studying and improving my skills in these two technologies.
 </p>
 
 
@@ -53,8 +53,7 @@
   ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=FFF)
   ![Wordpress](https://img.shields.io/badge/-Wordpress-333333?style=flat&logo=Wordpress&logoColor=009ACC)
 
-<div>
-  <!-- <a href="https://github.com/TiagoM13"> -->
+<div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TiagoM13&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TiagoM13&layout=compact&langs_count=7&theme=radical"/>
 </div>

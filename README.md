@@ -17,7 +17,6 @@
 
   ![Typescript](https://img.shields.io/badge/-Typescript-333333?style=flat&logo=Typescript)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-  ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=Python)
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
   ![React Native](https://img.shields.io/badge/-React%20Native-333333?style=flat&logo=react)
   ![Next](https://img.shields.io/badge/-Next-333333?style=flat&logo=next.js)
@@ -26,6 +25,7 @@
   ![Sass](https://img.shields.io/badge/-Sass-333333?style=flat&logo=Sass)
   ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20Css-333333?style=flat&logo=tailwindcss)
   ![Styled Components](https://img.shields.io/badge/-Styled%20Components-333333?style=flat&logo=styled-components)
+  <!-- ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=Python) -->
   <!-- ![Node](https://img.shields.io/badge/-Node-333333?style=flat&logo=node.js) -->
   <!-- ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb) -->
   <!-- ![Sqlite](https://img.shields.io/badge/-Sqlite-333333?style=flat&logo=sqlite) -->

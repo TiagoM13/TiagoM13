@@ -9,9 +9,9 @@
   🌱 I have knowledge in Back-End development with Node and Mobile with React Native, at the moment I'm studying and improving my skills in these two technologies.
 </p>
 
-<h3> :rocket: &nbsp;Minhas Skills </h3>
+<h3> :rocket: &nbsp;My Skills </h3>
 
-**Aplicações e Dados**
+**Applications and Data**
 
   ![Typescript](https://img.shields.io/badge/-Typescript-333333?style=flat&logo=Typescript)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
@@ -42,7 +42,7 @@
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
   ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
 
-**Ferramentas de Desenvolvimento**
+**Development Tools**
 
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
   ![Android Studio](https://img.shields.io/badge/-Android%20Studio-333333?style=flat&logo=android-studio&logoColor=007ACC)
@@ -72,7 +72,7 @@
   <img align="center" alt="Tiago-Tailwindscss" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
 </div> -->
 
-<h3> :earth_americas: &nbsp;Onde me encontrar: </h3> 
+<h3> :earth_americas: &nbsp;Where to find me: </h3> 
 
 <a href="https://www.instagram.com/tiagomota_13/" alt="Instagram" target="_blank">
   <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank" />

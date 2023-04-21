@@ -9,6 +9,8 @@
   🌱 I have knowledge in Back-End development with Node and Mobile with React Native, at the moment I'm studying and improving my skills in these two technologies.
 </p>
 
+##
+
 <h3> :rocket: &nbsp;My Skills </h3>
 
 **Applications and Data**

@@ -58,6 +58,8 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TiagoM13&layout=compact&langs_count=7&theme=radical"/>
 </div>
 
+<br/>
+
 <!-- <div align="left">
   <img align="center" alt="Tiago-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Tiago-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
@@ -69,8 +71,6 @@
   <img align="center" alt="Tiago-Nextjs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
   <img align="center" alt="Tiago-Tailwindscss" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
 </div> -->
-
-##
 
 <h3> :earth_americas: &nbsp;Onde me encontrar: </h3> 
 
@@ -85,6 +85,8 @@
 </a>
 <a href="https://www.linkedin.com/in/tiago-mota-4690591a8/" alt="LinkedIn" target="_blank">
   <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
-</a>  
-  
+</a> 
+
+##
+
 ![Snake animation](https://github.com/TiagoM13/TiagoM13/blob/output/github-contribution-grid-snake.svg)

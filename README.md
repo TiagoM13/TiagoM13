@@ -1,5 +1,7 @@
 ## Hello, my name is <strong>Tiago Mota!</strong>
 
+<p align="left">🎓 I have a degree in Systems Analysis and Development.</p>
+
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="300px" max-width="300px" width="300px" align="right" alt="Computador iuriCode" />
 
 <p align="left"> 
@@ -29,7 +31,7 @@
   <!-- ![Node](https://img.shields.io/badge/-Node-333333?style=flat&logo=node.js) -->
   <!-- ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb) -->
   <!-- ![Sqlite](https://img.shields.io/badge/-Sqlite-333333?style=flat&logo=sqlite) -->
-  <!-- ![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=PHP) -->
+  ![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=PHP)
   <!-- ![Jest](https://img.shields.io/badge/-Jest-333333?style=flat&logo=jest) -->
   <!-- ![Testing Library](https://img.shields.io/badge/-Testing%20Library-333333?style=flat&logo=testing-library) -->
 
@@ -51,7 +53,7 @@
   ![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello&logoColor=007ACC)
   ![Notion](https://img.shields.io/badge/-Notion-333333?style=flat&logo=Notion&logoColor=000)
   ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC)
-  <!-- ![Wordpress](https://img.shields.io/badge/-Wordpress-333333?style=flat&logo=Wordpress&logoColor=009ACC) -->
+  ![Wordpress](https://img.shields.io/badge/-Wordpress-333333?style=flat&logo=Wordpress&logoColor=009ACC)
 
 <br/>
 

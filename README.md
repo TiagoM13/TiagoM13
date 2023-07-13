@@ -3,10 +3,10 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="300px" max-width="300px" width="300px" align="right" alt="Computador iuriCode" />
 
 <p align="left"> 
-  🔭 I currently work as a Front-End developer with React.js, Typescript and Javascript, among other technologies. Development of campaign websites, blogs for influencer posts and event landing pages.
+  🔭 I currently work as a Front-End developer with React.js, Typescript and Javascript, among other technologies like PHP in conjunction with WordPress. In the development of campaign websites, influencer blogs and landing pages, in addition to daily support and maintenance.
 </p>
 <p align="left"> 
-  🌱 I have knowledge in Back-End development with Node and Mobile with React Native, at the moment I'm studying and improving my skills in these two technologies.
+  🌱 Currently I have been focusing my studies on Mobile with React Native, improving myself and learning new things in this area of development, I have knowledge in Back-End development with Node, I have focused on improving my knowledge daily.
 </p>
 
 ##

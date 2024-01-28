@@ -79,6 +79,3 @@
   <img src="https://img.shields.io/badge/-Linkedin-026eaa?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tiago-mota-4690591a8/" />
 </a> 
 
-##
-
-![Snake animation](https://github.com/TiagoM13/TiagoM13/blob/output/github-contribution-grid-snake.svg)

@@ -28,17 +28,17 @@
   ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20Css-333333?style=flat&logo=tailwindcss)
   ![Styled Components](https://img.shields.io/badge/-Styled%20Components-333333?style=flat&logo=styled-components)
   <!-- ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=Python) -->
-  <!-- ![Node](https://img.shields.io/badge/-Node-333333?style=flat&logo=node.js) -->
-  <!-- ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb) -->
-  <!-- ![Sqlite](https://img.shields.io/badge/-Sqlite-333333?style=flat&logo=sqlite) -->
+  ![Node](https://img.shields.io/badge/-Node-333333?style=flat&logo=node.js)
+  ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb) 
+  ![Sqlite](https://img.shields.io/badge/-Sqlite-333333?style=flat&logo=sqlite)
   ![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=PHP)
-  <!-- ![Jest](https://img.shields.io/badge/-Jest-333333?style=flat&logo=jest) -->
-  <!-- ![Testing Library](https://img.shields.io/badge/-Testing%20Library-333333?style=flat&logo=testing-library) -->
+  ![Jest](https://img.shields.io/badge/-Jest-333333?style=flat&logo=jest)
+  ![Testing Library](https://img.shields.io/badge/-Testing%20Library-333333?style=flat&logo=testing-library)
 
 **Utilities**
 
   ![Insomnia](https://img.shields.io/badge/-Insomnia-333333?style=flat&logo=insomnia)
-  <!-- ![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman) -->
+  ![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
 
 **DevOps**
 

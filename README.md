@@ -1,15 +1,20 @@
 ## Hello, my name is <strong>Tiago Mota!</strong>
 
-<p align="left">🎓 I have a degree in Systems Analysis and Development.</p>
+<p align="left">🎓 Graduated in Systems Analysis and Development.</p>
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="300px" max-width="300px" width="300px" align="right" alt="Computador iuriCode" />
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="350px" max-width="350px" width="350px" align="right" alt="Computador iuriCode" />
 
+<div width='200px'>
 <p align="left"> 
-  🔭 I currently work as a Front-End developer with React.js, Typescript and Javascript, among other technologies like PHP in conjunction with WordPress. In the development of campaign websites, influencer blogs and landing pages, in addition to daily support and maintenance.
+  💻 Front-End Developer specialized in React.js, TypeScript, and JavaScript. I have solid experience in developing modern web applications, focused on creating interactive and scalable interfaces. I am passionate about technology and always strive for excellence in writing clean and efficient code.
 </p>
 <p align="left"> 
-  🌱 Currently I have been focusing my studies on Mobile with React Native, improving myself and learning new things in this area of development, I have knowledge in Back-End development with Node, I have focused on improving my knowledge daily.
+  🚀 Focused on continuous learning, I am constantly improving my skills in libraries and tools from the React ecosystem, such as Redux, React Query, and Styled Components. In addition, I have a strong interest in unit and integration testing, using Jest and React Testing Library to ensure code quality and reliability.
 </p>
+<p align="left"> 
+  🔧 Dedication and proactivity are qualities that define me as a developer. I am always looking for new ways to improve my skills, with the goal of delivering innovative and high-quality solutions.
+</p>
+</div>
 
 ##
 

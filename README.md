@@ -1,86 +1,152 @@
-## Hello, my name is <strong>Tiago Mota!</strong>
-
-<p align="left">🎓 Graduated in Systems Analysis and Development.</p>
-
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode" />
-
-<div width='200px'>
-<p align="left"> 
-  💻 Front-End Developer specialized in React.js, TypeScript, and JavaScript. I have solid experience in developing modern web applications, focused on creating interactive and scalable interfaces. I am passionate about technology and always strive for excellence in writing clean and efficient code.
-</p>
-<p align="left"> 
-  🚀 Focused on continuous learning, I am constantly improving my skills in libraries and tools from the React ecosystem, such as Redux, React Query, and Styled Components. In addition, I have a strong interest in unit and integration testing, using Jest and React Testing Library to ensure code quality and reliability.
-</p>
-<p align="left"> 
-  🔧 Dedication and proactivity are qualities that define me as a developer. I am always looking for new ways to improve my skills, with the goal of delivering innovative and high-quality solutions.
-</p>
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Tiago%20Mota&fontSize=52&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20React%20·%20Node.js%20·%20TypeScript%20·%20NestJS&descAlignY=58&descAlign=50"/>
 </div>
 
-##
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&random=false&width=680&lines=Hey+there!+I'm+Tiago+%F0%9F%91%8B;Full+Stack+Developer+%F0%9F%9A%80;React+%26+TypeScript+Specialist+%E2%9A%A1;Node.js+%26+NestJS+on+the+back+%F0%9F%94%A7;Mobile+Dev+with+React+Native+%2B+Expo+%F0%9F%93%B1;Design+Patterns+%26+Clean+Code+%F0%9F%A7%BC" alt="Typing SVG" />
+  </a>
+</div>
 
-<h3> :rocket: &nbsp;My Skills </h3>
+<br/>
 
-**Applications and Data**
+<img align="right" width="360" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" alt="Developer animation"/>
 
-  ![Typescript](https://img.shields.io/badge/-Typescript-333333?style=flat&logo=Typescript)
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-  ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
-  ![React Native](https://img.shields.io/badge/-React%20Native-333333?style=flat&logo=react)
-  ![Next](https://img.shields.io/badge/-Next-333333?style=flat&logo=next.js)
-  ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
-  ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
-  ![Sass](https://img.shields.io/badge/-Sass-333333?style=flat&logo=Sass)
-  ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20Css-333333?style=flat&logo=tailwindcss)
-  ![Styled Components](https://img.shields.io/badge/-Styled%20Components-333333?style=flat&logo=styled-components)
-  <!-- ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=Python) -->
-  ![Node](https://img.shields.io/badge/-Node-333333?style=flat&logo=node.js)
-  ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb) 
-  ![Sqlite](https://img.shields.io/badge/-Sqlite-333333?style=flat&logo=sqlite)
-  ![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=PHP)
-  ![Jest](https://img.shields.io/badge/-Jest-333333?style=flat&logo=jest)
-  ![Testing Library](https://img.shields.io/badge/-Testing%20Library-333333?style=flat&logo=testing-library)
+### 🧑‍💻 About Me
 
-**Utilities**
+🎓 Graduated in **Systems Analysis and Development**  
+💻 **Full Stack Developer** specialized in **React.js**, **TypeScript** & **Next.js**  
+🔙 Back-end with **Node.js**, **NestJS**, **PostgreSQL**, **MongoDB** & **SQLite**  
+📱 Mobile with **React Native** + **Expo** for cross-platform apps  
+🧱 Experienced with **Design Patterns** — SOLID, Repository, Factory & more  
+🧪 Strong focus on code quality using **Jest** & **React Testing Library**  
+🎨 Modern styling — **Tailwind CSS**, **Styled Components** & **Sass**  
+☁️ Cloud experience with **AWS** — EC2, S3, Lambda & more  
+🐳 Familiar with **Docker** for containerized development workflows  
+🚀 Always evolving — clean code, scalable architecture, great UX  
 
-  ![Insomnia](https://img.shields.io/badge/-Insomnia-333333?style=flat&logo=insomnia)
-  ![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
+<br clear="right"/>
 
-**DevOps**
+---
 
-  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-  ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
+### 🛠️ Tech Stack
 
-**Development Tools**
+**⚡ Core Languages**
 
-  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-  ![Android Studio](https://img.shields.io/badge/-Android%20Studio-333333?style=flat&logo=android-studio&logoColor=007ACC)
-  ![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello&logoColor=007ACC)
-  ![Notion](https://img.shields.io/badge/-Notion-333333?style=flat&logo=Notion&logoColor=000)
-  ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC)
-  ![Wordpress](https://img.shields.io/badge/-Wordpress-333333?style=flat&logo=Wordpress&logoColor=009ACC)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+**⚛️ Frontend Frameworks & Libraries**
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
+![Zustand](https://img.shields.io/badge/Zustand-443E38?style=for-the-badge&logo=zustand&logoColor=white)
+
+**🎨 Styling**
+
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Styled Components](https://img.shields.io/badge/Styled--Components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
+![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+
+**🔙 Backend & Databases**
+
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+
+**🧪 Testing**
+
+![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
+![Testing Library](https://img.shields.io/badge/Testing_Library-E33332?style=for-the-badge&logo=testing-library&logoColor=white)
+
+**⚙️ DevOps & Tools**
+
+![Git](https://img.shields.io/badge/Git-E44C30?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=FF9900)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Insomnia](https://img.shields.io/badge/Insomnia-4000BF?style=for-the-badge&logo=insomnia&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TiagoM13&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TiagoM13&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=TiagoM13&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak"/>
+</div>
+
+---
+
+### 📈 Contribution Activity
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TiagoM13&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=6C63FF&line=6C63FF&point=FFFFFF" alt="Activity Graph"/>
+</div>
+
+---
+
+### 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=TiagoM13&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" alt="GitHub Trophies"/>
+</div>
+
+---
+
+### 🐍 Contribution Snake
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TiagoM13/TiagoM13/output/github-contribution-grid-snake-dark.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/TiagoM13/TiagoM13/output/github-contribution-grid-snake.svg"/>
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/TiagoM13/TiagoM13/output/github-contribution-grid-snake.svg"/>
+  </picture>
+</div>
+
+---
+
+### 🌍 Connect with me
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/tiago-mota-4690591a8/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://www.instagram.com/tiagomota_13/" target="_blank">
+    <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+  <a href="https://twitter.com/tiago_m13" target="_blank">
+    <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
+  </a>
+  <a href="mailto:thyagomotha2000@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</div>
 
 <br/>
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TiagoM13&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TiagoM13&layout=compact&langs_count=7&theme=dracula"/>
+  <img src="https://komarev.com/ghpvc/?username=TiagoM13&color=6C63FF&style=for-the-badge&label=Profile+Views" alt="Profile Views"/>
 </div>
 
 <br/>
 
-<h3> :earth_americas: &nbsp;Where to find me: </h3> 
-
-<a href="https://www.instagram.com/tiagomota_13/" alt="Instagram" target="_blank">
-  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=LINK-DO-SEU-INSTAGRAM"/>
-</a> 
-<a href="https://twitter.com/tiago_m13" alt="Twitter" target="_blank">
-  <img src="https://img.shields.io/badge/-Twitter-1da1f2?style=flat-square&labelColor=1da1f2&logo=twitter&logoColor=white&link=https://twitter.com/tiago_m13" />
-</a>
-<a href = "mailto:thyagomotha2000@gmail.com" alt="Gmail" target="_blank">
-  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=mailto:thyagomotha2000@gmail.com" />
-</a>
-<a href="https://www.linkedin.com/in/tiago-mota-4690591a8/" alt="LinkedIn" target="_blank">
-  <img src="https://img.shields.io/badge/-Linkedin-026eaa?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tiago-mota-4690591a8/" />
-</a> 
-
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer"/>
+</div>

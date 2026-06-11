@@ -102,22 +102,49 @@
 
 ---
 
-### 🏆 GitHub Trophies
+### 💼 Experience
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=TiagoM13&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" alt="GitHub Trophies"/>
-</div>
+<table>
+  <tr>
+    <td valign="top" align="center" width="110">
+      <b>Mar 2025</b><br/>Present
+    </td>
+    <td valign="top">
+      <b>🏢 IDIP Tecnologia</b> &nbsp;·&nbsp; Software Developer<br/>
+      <sub>React · TypeScript · Tailwind CSS · React Native · Expo · Node.js · NestJS · Express</sub><br/><br/>
+      Scalable web interfaces and real-time admin dashboards. Mobile apps with React Native + Expo. REST API development with Node.js, NestJS and Express. Cross-functional collaboration with backend, product and design teams in agile environments.
+    </td>
+  </tr>
+  <tr><td colspan="2"><br/></td></tr>
+  <tr>
+    <td valign="top" align="center" width="110">
+      <b>Oct 2023</b><br/>Apr 2024
+    </td>
+    <td valign="top">
+      <b>🏢 AdGrowth</b> &nbsp;·&nbsp; Software Developer Jr. II &nbsp;·&nbsp; <i>São Paulo, Brasil</i><br/>
+      <sub>React · React Hooks · PrimeReact · Jest · Testing Library · WordPress · PHP</sub><br/><br/>
+      Built microfrontends for a reporting platform. Automated tests with Jest & Testing Library. Responsive microservice UIs and bug fixes. Code review and approval. Led WordPress & PHP site development — themes, plugins, refactors.
+    </td>
+  </tr>
+  <tr><td colspan="2"><br/></td></tr>
+  <tr>
+    <td valign="top" align="center" width="110">
+      <b>Jun 2022</b><br/>Nov 2023
+    </td>
+    <td valign="top">
+      <b>🏢 Alive App Brasil</b> &nbsp;·&nbsp; Software Developer Jr. I<br/>
+      <sub>React · WordPress · PHP</sub><br/><br/>
+      Web app development with React — feature implementation and UX optimization. Code reviews and brainstorming sessions. WordPress theme creation, plugin integration and client-specific customizations.
+    </td>
+  </tr>
+</table>
 
 ---
 
-### 🐍 Contribution Snake
+### 💬 Dev Quote
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TiagoM13/TiagoM13/output/github-contribution-grid-snake-dark.svg"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/TiagoM13/TiagoM13/output/github-contribution-grid-snake.svg"/>
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/TiagoM13/TiagoM13/output/github-contribution-grid-snake.svg"/>
-  </picture>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote"/>
 </div>
 
 ---

@@ -2,6 +2,14 @@
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Tiago%20Mota&fontSize=48&fontColor=fff&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20React%20·%20React%20Native%20·%20Node.js%20·%20NestJS&descAlignY=58&descAlign=50"/>
 </div>
 
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&random=false&width=680&lines=Hey+there%21+I%27m+Tiago+%F0%9F%91%8B;Full+Stack+Developer+%F0%9F%9A%80;React+%26+TypeScript+Specialist+%E2%9A%A1;Node.js+%26+NestJS+on+the+back+%F0%9F%94%A7;Mobile+Dev+with+React+Native+%2B+Expo+%F0%9F%93%B1;E2E+tests+with+Playwright+%F0%9F%A7%AA;AI-assisted+dev+with+Claude+Code+skills+%F0%9F%A4%96;Design+Patterns+%26+Clean+Code+%F0%9F%A7%BC" alt="Typing SVG" />
+  </a>
+</div>
+
+<br/>
+
 <img align="right" width="360" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" alt="Developer animation"/>
 
 ### 👋 About me

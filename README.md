@@ -16,18 +16,6 @@ Currently a Full Stack Developer at **IDIP Tecnologia**. Open to remote roles.
 
 ---
 
-### 🚀 Featured projects
-
-| Project | What it is | Stack |
-|---|---|---|
-| [**photon-ui**](https://github.com/TiagoM13/photon-ui) | React component library published on [npm](https://www.npmjs.com/package/@tiagomdev/photon-ui), with CI and automated publishing | React · Tailwind CSS · Storybook · Vitest |
-| [**kpi-corp**](https://github.com/TiagoM13/kpi-corp) | Team recognition platform with KPIs, scoring, rankings and live meetings | Turborepo · React · TanStack Router · Fastify · oRPC · Prisma · PostgreSQL |
-| [**postory-api**](https://github.com/TiagoM13/postory-api) | Posts management REST API following Clean Architecture | NestJS · Prisma · PostgreSQL |
-| [**alert-app**](https://github.com/TiagoM13/alert-app) | Offline-first mobile app to create and schedule alerts by urgency | Expo · Expo Router · SQLite · NativeWind |
-| [**site-fotografico**](https://github.com/TiagoM13/site-fotografico) | Photo gallery of São Luís (MA) heritage sites, with CI and automated releases · [live](https://site-fotografico.vercel.app) | React · Vite · Tailwind CSS · GitHub Actions |
-
----
-
 ### 🛠️ Tech stack
 
 **Languages**

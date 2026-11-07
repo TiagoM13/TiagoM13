@@ -2,6 +2,8 @@
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Tiago%20Mota&fontSize=48&fontColor=fff&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20React%20·%20React%20Native%20·%20Node.js%20·%20NestJS&descAlignY=58&descAlign=50"/>
 </div>
 
+<img align="right" width="360" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" alt="Developer animation"/>
+
 ### 👋 About me
 
 Full Stack Developer with 4 years of experience building web and mobile products, specialized in the React ecosystem.
@@ -11,6 +13,8 @@ Full Stack Developer with 4 years of experience building web and mobile products
 - **Mobile:** iOS and Android apps with React Native and Expo (EAS Build and OTA updates)
 - **Quality:** unit, integration and end-to-end tests (Playwright), CI/CD, Clean Architecture and SOLID
 - **AI-assisted development:** Claude Code with custom agent skills for planning, review and testing workflows
+
+<br clear="right"/>
 
 ---
 

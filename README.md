@@ -12,8 +12,6 @@ Full Stack Developer with 4 years of experience building web and mobile products
 - **Quality:** unit, integration and end-to-end tests (Playwright), CI/CD, Clean Architecture and SOLID
 - **AI-assisted development:** Claude Code with custom agent skills for planning, review and testing workflows
 
-Currently a Full Stack Developer at **IDIP Tecnologia**. Open to remote roles.
-
 ---
 
 ### 🛠️ Tech stack
